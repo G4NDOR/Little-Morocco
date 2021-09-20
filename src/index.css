@@ -821,7 +821,9 @@ iframe {
 
 @media screen and (max-width : 750px ) {
 
-
+  #about {
+    width: 100%;
+  }
 
   #header {
     max-width: 980px ;
